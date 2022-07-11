@@ -1,0 +1,172 @@
+Jul 10 00:00:01 alarm-italian CRON[41544]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:00:01 alarm-italian CRON[41543]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 10 00:00:01 alarm-italian CRON[41543]: pam_unix(cron:session): session closed for user root
+Jul 10 00:00:06 alarm-italian sshd[41548]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:00:12 alarm-italian sshd[41550]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:00:28 alarm-italian sshd[41556]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:00:32 alarm-italian sshd[41558]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:00:37 alarm-italian sshd[41560]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:00:37 alarm-italian systemd-logind[496]: New session 718 of user git.
+Jul 10 00:00:37 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:00:39 alarm-italian sshd[41583]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:00:40 alarm-italian sshd[41657]: Disconnected from user git 180.241.243.209 port 4726
+Jul 10 00:00:40 alarm-italian sshd[41560]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:00:40 alarm-italian systemd-logind[496]: Session 718 logged out. Waiting for processes to exit.
+Jul 10 00:00:40 alarm-italian systemd-logind[496]: Removed session 718.
+Jul 10 00:00:45 alarm-italian sshd[41662]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:00:50 alarm-italian sshd[41664]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:00:50 alarm-italian systemd: pam_unix(systemd-user:session): session closed for user git
+Jul 10 00:00:56 alarm-italian sshd[41683]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:03 alarm-italian sshd[41685]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:08 alarm-italian sshd[41687]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:15 alarm-italian sshd[41691]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:15 alarm-italian sshd[41689]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:19 alarm-italian sshd[41693]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:25 alarm-italian sshd[41695]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:25 alarm-italian CRON[41544]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:01:31 alarm-italian sshd[41697]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:36 alarm-italian sshd[41699]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:42 alarm-italian sshd[41701]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:47 alarm-italian sshd[41703]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:53 alarm-italian sshd[41705]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:01:58 alarm-italian sshd[41707]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:02:05 alarm-italian sshd[41709]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:02:11 alarm-italian sshd[41711]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:02:15 alarm-italian sshd[41713]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:02:22 alarm-italian sshd[41715]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:02:26 alarm-italian sshd[41717]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:02:44 alarm-italian sshd[41720]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:03:20 alarm-italian sshd[41722]: error: kex_exchange_identification: Connection closed by remote host
+Jul 10 00:03:49 alarm-italian sshd[41744]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:03:49 alarm-italian systemd-logind[496]: New session 720 of user git.
+Jul 10 00:03:49 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:03:51 alarm-italian sshd[41842]: Disconnected from user git 180.241.243.209 port 17486
+Jul 10 00:03:51 alarm-italian sshd[41744]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:03:51 alarm-italian systemd-logind[496]: Session 720 logged out. Waiting for processes to exit.
+Jul 10 00:03:51 alarm-italian systemd-logind[496]: Removed session 720.
+Jul 10 00:05:01 alarm-italian CRON[41860]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:05:42 alarm-italian sshd[39277]: pam_unix(sshd:session): session closed for user akatsuki
+Jul 10 00:05:42 alarm-italian systemd-logind[496]: Session 679 logged out. Waiting for processes to exit.
+Jul 10 00:05:45 alarm-italian sshd[41865]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:07:03 alarm-italian sshd[41872]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:07:03 alarm-italian systemd-logind[496]: New session 723 of user git.
+Jul 10 00:07:03 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:07:05 alarm-italian sshd[41970]: Disconnected from user git 180.241.240.242 port 6741
+Jul 10 00:07:05 alarm-italian sshd[41872]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:07:05 alarm-italian systemd-logind[496]: Session 723 logged out. Waiting for processes to exit.
+Jul 10 00:07:05 alarm-italian systemd-logind[496]: Removed session 723.
+Jul 10 00:07:20 alarm-italian sshd[41992]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:08:54 alarm-italian sshd[42019]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:09:00 alarm-italian CRON[41860]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:10:01 alarm-italian CRON[42024]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:10:37 alarm-italian sshd[42029]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:10:37 alarm-italian systemd-logind[496]: New session 726 of user git.
+Jul 10 00:10:37 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:10:38 alarm-italian sshd[42124]: Disconnected from user git 180.241.242.138 port 2904
+Jul 10 00:10:38 alarm-italian sshd[42029]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:10:38 alarm-italian systemd-logind[496]: Session 726 logged out. Waiting for processes to exit.
+Jul 10 00:10:38 alarm-italian systemd-logind[496]: Removed session 726.
+Jul 10 00:13:25 alarm-italian CRON[42024]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:13:41 alarm-italian sshd[42164]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:13:41 alarm-italian systemd-logind[496]: New session 728 of user git.
+Jul 10 00:13:41 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:13:42 alarm-italian sshd[42286]: Disconnected from user git 180.241.240.242 port 6862
+Jul 10 00:13:42 alarm-italian sshd[42164]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:13:42 alarm-italian systemd-logind[496]: Session 728 logged out. Waiting for processes to exit.
+Jul 10 00:13:42 alarm-italian systemd-logind[496]: Removed session 728.
+Jul 10 00:15:02 alarm-italian CRON[42308]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:16:50 alarm-italian sshd[42334]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:16:50 alarm-italian systemd-logind[496]: New session 731 of user git.
+Jul 10 00:16:50 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:16:53 alarm-italian sshd[42430]: Disconnected from user git 180.241.243.209 port 1170
+Jul 10 00:16:53 alarm-italian sshd[42334]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:16:53 alarm-italian systemd-logind[496]: Session 731 logged out. Waiting for processes to exit.
+Jul 10 00:16:53 alarm-italian systemd-logind[496]: Removed session 731.
+Jul 10 00:17:02 alarm-italian CRON[42432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 10 00:17:02 alarm-italian CRON[42432]: pam_unix(cron:session): session closed for user root
+Jul 10 00:17:58 alarm-italian CRON[42308]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:20:01 alarm-italian CRON[42483]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:20:25 alarm-italian sshd[42486]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:20:25 alarm-italian systemd-logind[496]: New session 735 of user git.
+Jul 10 00:20:25 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:20:26 alarm-italian sshd[42582]: Disconnected from user git 180.241.243.209 port 26598
+Jul 10 00:20:26 alarm-italian sshd[42486]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:20:26 alarm-italian systemd-logind[496]: Session 735 logged out. Waiting for processes to exit.
+Jul 10 00:20:26 alarm-italian systemd-logind[496]: Removed session 735.
+Jul 10 00:22:48 alarm-italian CRON[42483]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:23:30 alarm-italian sshd[42617]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:23:30 alarm-italian systemd-logind[496]: New session 737 of user git.
+Jul 10 00:23:30 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:23:34 alarm-italian sshd[42715]: Disconnected from user git 180.241.243.209 port 13860
+Jul 10 00:23:34 alarm-italian sshd[42617]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:23:34 alarm-italian systemd-logind[496]: Session 737 logged out. Waiting for processes to exit.
+Jul 10 00:23:34 alarm-italian systemd-logind[496]: Removed session 737.
+Jul 10 00:24:40 alarm-italian sshd[42762]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:25:01 alarm-italian CRON[42764]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:26:08 alarm-italian CRON[42764]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:26:42 alarm-italian sshd[42770]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:26:42 alarm-italian systemd-logind[496]: New session 740 of user git.
+Jul 10 00:26:42 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:26:44 alarm-italian sshd[42868]: Disconnected from user git 180.241.243.209 port 13980
+Jul 10 00:26:44 alarm-italian sshd[42770]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:26:44 alarm-italian systemd-logind[496]: Session 740 logged out. Waiting for processes to exit.
+Jul 10 00:26:44 alarm-italian systemd-logind[496]: Removed session 740.
+Jul 10 00:26:55 alarm-italian systemd: pam_unix(systemd-user:session): session closed for user git
+Jul 10 00:27:53 alarm-italian sshd[42913]: error: kex_exchange_identification: Connection closed by remote host
+Jul 10 00:27:57 alarm-italian sshd[42914]: Unable to negotiate with 141.98.10.174 port 59500: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Jul 10 00:30:01 alarm-italian CRON[42922]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:30:10 alarm-italian sshd[42927]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:30:10 alarm-italian systemd-logind[496]: New session 743 of user git.
+Jul 10 00:30:10 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:30:12 alarm-italian sshd[43019]: Disconnected from user git 180.241.242.138 port 19605
+Jul 10 00:30:12 alarm-italian sshd[42927]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:30:12 alarm-italian systemd-logind[496]: Session 743 logged out. Waiting for processes to exit.
+Jul 10 00:30:12 alarm-italian systemd-logind[496]: Removed session 743.
+Jul 10 00:31:23 alarm-italian sshd[43045]: error: kex_exchange_identification: banner line contains invalid characters
+Jul 10 00:31:23 alarm-italian sshd[43046]: error: kex_exchange_identification: banner line contains invalid characters
+Jul 10 00:31:54 alarm-italian sshd[43069]: error: kex_exchange_identification: client sent invalid protocol identifier "GET http://passport.baidu.com/ HTTP/1.1"
+Jul 10 00:32:04 alarm-italian sshd[43070]: error: kex_exchange_identification: Connection closed by remote host
+Jul 10 00:33:13 alarm-italian CRON[42922]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:33:28 alarm-italian sshd[43073]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:33:28 alarm-italian systemd-logind[496]: New session 745 of user git.
+Jul 10 00:33:28 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:33:29 alarm-italian sshd[43173]: Disconnected from user git 180.241.242.138 port 10068
+Jul 10 00:33:29 alarm-italian sshd[43073]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:33:29 alarm-italian systemd-logind[496]: Session 745 logged out. Waiting for processes to exit.
+Jul 10 00:33:29 alarm-italian systemd-logind[496]: Removed session 745.
+Jul 10 00:33:33 alarm-italian sshd[43175]: Unable to negotiate with 37.0.8.198 port 45920: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Jul 10 00:34:10 alarm-italian sshd[43196]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:35:01 alarm-italian CRON[43203]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:35:31 alarm-italian sshd[43207]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:36:33 alarm-italian sshd[43228]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:36:33 alarm-italian systemd-logind[496]: New session 748 of user git.
+Jul 10 00:36:33 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:36:34 alarm-italian sshd[43326]: Disconnected from user git 180.241.243.209 port 4988
+Jul 10 00:36:34 alarm-italian sshd[43228]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:36:34 alarm-italian systemd-logind[496]: Session 748 logged out. Waiting for processes to exit.
+Jul 10 00:36:34 alarm-italian systemd-logind[496]: Removed session 748.
+Jul 10 00:36:52 alarm-italian sshd[43350]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:37:02 alarm-italian CRON[43203]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:37:14 alarm-italian sshd[43353]: error: kex_exchange_identification: Connection closed by remote host
+Jul 10 00:38:05 alarm-italian sshd[43354]: Unable to negotiate with 37.0.8.198 port 34304: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Jul 10 00:38:13 alarm-italian sshd[43356]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:39:32 alarm-italian sshd[43358]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:39:42 alarm-italian sshd[43360]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jul 10 00:39:42 alarm-italian systemd-logind[496]: New session 750 of user git.
+Jul 10 00:39:42 alarm-italian systemd: pam_unix(systemd-user:session): session opened for user git by (uid=0)
+Jul 10 00:39:43 alarm-italian sshd[43460]: Disconnected from user git 180.241.242.138 port 32730
+Jul 10 00:39:43 alarm-italian sshd[43360]: pam_unix(sshd:session): session closed for user git
+Jul 10 00:39:43 alarm-italian systemd-logind[496]: Session 750 logged out. Waiting for processes to exit.
+Jul 10 00:39:43 alarm-italian systemd-logind[496]: Removed session 750.
+Jul 10 00:40:01 alarm-italian CRON[43483]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:40:53 alarm-italian sshd[43507]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:41:12 alarm-italian CRON[43483]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:42:15 alarm-italian sshd[43509]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:43:35 alarm-italian sshd[43512]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:44:57 alarm-italian sshd[43515]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:45:01 alarm-italian CRON[43537]: pam_unix(cron:session): session opened for user nobody by (uid=0)
+Jul 10 00:45:04 alarm-italian sshd[43540]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:45:04 alarm-italian sshd[43542]: error: kex_exchange_identification: Connection closed by remote host
+Jul 10 00:45:04 alarm-italian CRON[43537]: pam_unix(cron:session): session closed for user nobody
+Jul 10 00:45:21 alarm-italian sshd[43543]: pam_unix(sshd:auth): check pass; user unknown
+Jul 10 00:45:22 alarm-italian sshd[43547]: Unable to negotiate with 141.98.10.175 port 60310: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
